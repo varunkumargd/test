@@ -1,0 +1,5 @@
+C:\Users\Varunkumar GD\Documents\American water\aw-coding-challenge-main\aw-coding-challenge-main\CodingChallenge.Utilities\bin\Debug\CodingChallenge.Utilities.dll
+C:\Users\Varunkumar GD\Documents\American water\aw-coding-challenge-main\aw-coding-challenge-main\CodingChallenge.Utilities\bin\Debug\CodingChallenge.Utilities.pdb
+C:\Users\Varunkumar GD\Documents\American water\aw-coding-challenge-main\aw-coding-challenge-main\CodingChallenge.Utilities\obj\Debug\CodingChallenge.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Varunkumar GD\Documents\American water\aw-coding-challenge-main\aw-coding-challenge-main\CodingChallenge.Utilities\obj\Debug\CodingChallenge.Utilities.dll
+C:\Users\Varunkumar GD\Documents\American water\aw-coding-challenge-main\aw-coding-challenge-main\CodingChallenge.Utilities\obj\Debug\CodingChallenge.Utilities.pdb
